@@ -115,8 +115,8 @@ var urlform="https://docs.google.com/forms/d/e/1FAIpQLSdyvqhwWwkTNuRsY2IuQn2ENdR
 var urlchuyen=window.location.href;
 var hovaten="1909459333";
 var dienthoai="894569011";
-var email="20907654";
-var duan="76357482";
+var email="209076549";
+var duan="763574824";
 var submittitle='Đăng ký tư vấn';
 var submittedform=false;
 var titleheader="ĐĂNG KÝ TƯ VẤN NHẬN ƯU ĐÃI";
@@ -140,7 +140,7 @@ jQuery("#myModalthanh").html(formdiv);
 function thanhxet(){
 
 if(submittedform) {
-	window.location="https://hocvienfaceseo.com";
+	window.location="https://datxanhcantho.blogspot.com/";
 	
 	 if(document.cookie.indexOf("adf") == -1)
                    {
